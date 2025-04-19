@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "consolidate": "^1.0.3",
-    "express": "5.1.0",
+    "express": "4.1.19",
     "mustache": "^4",
     "del": "^7.1.0",
     "gulp": "^5.0.0",
